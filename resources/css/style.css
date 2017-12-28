@@ -1,4 +1,16 @@
-h1 {
+h2{
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+
+h3{
+  color: Gray;
+  text-align: right;
+}
+
+.heading{
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
@@ -15,4 +27,19 @@ a{
   font-size: 16px;
   display: block;
   text-align: center;
+}
+
+
+.personal_guide_heading{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+.center_item{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
